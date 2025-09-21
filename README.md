@@ -22,4 +22,4 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠶⢌⣳⣦⣾⣿⠄⠄⠛⠿⣷⣤⣴⣿⣶⡿⠛⠄⠄⠄⢭⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣯⣭⣭⣿⡇⠄⠄⠄⠄⠄⠈⠉⠉⠄⠄⠄⠄⠄⠄⠄⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-<img src="https://cdn.discordapp.com/attachments/1296445891023994934/1407581778822303826/SPINWEEE.gif?ex=68d0d02f&is=68cf7eaf&hm=f88714f027af025c6ba7761952880da64693c6aba100d82468f76018850b15db&" alt="spinkanade" width="700" height="700"> </img>
+<img src="https://cdn.discordapp.com/attachments/1296445891023994934/1407581778822303826/SPINWEEE.gif?ex=68d0d02f&is=68cf7eaf&hm=f88714f027af025c6ba7761952880da64693c6aba100d82468f76018850b15db&" alt="spinkanade" width="650" height="650"> </img>
